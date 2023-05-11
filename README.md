@@ -9,14 +9,12 @@ Este é um código simples que utiliza a biblioteca *maturin* para transformar o
 - cargo >= 1.69.0
 - Python & pip & cargo added in PATH
 
-## Install and Run
+### Instalação e execução
 
 Clone the repository
 ```
 git clone https://github.com/clcosta/rust_in_python.git
 ```
-
-### Instalação e execução
 
 **Start with Script**
 
